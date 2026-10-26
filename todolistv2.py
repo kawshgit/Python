@@ -1,0 +1,7 @@
+print('To do list')
+print('===========')
+print('1.Add items')
+print('2.Remove items')
+print('3.exit')
+print('1.1add your item title')
+print('1.2description')
